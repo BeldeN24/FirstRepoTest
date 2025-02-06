@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 23
+=======
+23 v topku
+>>>>>>> tread_branch
